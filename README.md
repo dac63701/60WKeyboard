@@ -10,7 +10,7 @@ A wireless, 60% layout, hot swappable, custom keyboard designed with an nRF52840
 - Hotswap Switches
 
 ## Materials
-- PCBs
+- PCBs ([JLCPCB](https://jlcpcb.com))
 - Solder Stencil ([JLCPCB](https://jlcpcb.com))
 - Solder Paste ([Amazon](https://www.amazon.com/gp/product/B0BLSJQPR6/ref=ox_sc_act_title_7?smid=A1NSYQXYRWRLYY&psc=1))
 - Flux ([Amazon](https://www.amazon.com/gp/product/B08KJRCYRH/ref=ox_sc_act_title_8?smid=A2GPLZGUK8NBW5&psc=1))
