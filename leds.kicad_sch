@@ -11613,7 +11613,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6330c1b0-53d9-4e01-95bb-5bbcd37a24df")
-		(property "Reference" "C27"
+		(property "Reference" "C28"
 			(at 111.76 205.74 90)
 			(effects
 				(font
@@ -11665,7 +11665,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "C27")
+					(reference "C28")
 					(unit 1)
 				)
 			)
@@ -16103,7 +16103,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b9d0c46d-5c35-4727-807f-f931dc17acb1")
-		(property "Reference" "C26"
+		(property "Reference" "C27"
 			(at 93.98 205.74 90)
 			(effects
 				(font
@@ -16155,7 +16155,7 @@
 		(instances
 			(project ""
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "C26")
+					(reference "C27")
 					(unit 1)
 				)
 			)
