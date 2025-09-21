@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "c558cde3-fbca-4f4a-a421-73571e10ff24")
 	(paper "A4")
+	(title_block
+		(title "60% Wireless Keyboard")
+		(date "2025-09-20")
+		(rev "v0.3")
+	)
 	(lib_symbols
 		(symbol "ScottoKeebs:Placeholder_Diode"
 			(pin_numbers

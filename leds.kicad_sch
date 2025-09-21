@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "20a9c00d-00fa-4f02-bb12-cdd0db4de8ef")
 	(paper "A3")
+	(title_block
+		(title "60% Wireless Keyboard")
+		(date "2025-09-20")
+		(rev "v0.3")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers
@@ -18501,7 +18506,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "fdbdcdb9-730e-47b9-93d7-4ad8d4854ebb")
 		(property "Reference" "#PWR057"
 			(at 87.63 220.98 0)
@@ -18513,7 +18517,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 87.63 219.71 0)
+			(at 87.63 219.456 0)
 			(effects
 				(font
 					(size 1.27 1.27)
