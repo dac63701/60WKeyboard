@@ -12,11 +12,11 @@ A wireless, 60% layout, hot swappable, custom keyboard designed with an nRF52840
 ## Materials
 - [ ] PCBs ([JLCPCB](https://jlcpcb.com))
 - [ ] Solder Stencil ([JLCPCB](https://jlcpcb.com))
-- [ ] Solder Paste ([Amazon](https://www.amazon.com/gp/product/B0BLSJQPR6/ref=ox_sc_act_title_7?smid=A1NSYQXYRWRLYY&psc=1))
-- [ ] Flux ([Amazon](https://www.amazon.com/gp/product/B08KJRCYRH/ref=ox_sc_act_title_8?smid=A2GPLZGUK8NBW5&psc=1))
-- [ ] Lead-Free Solder ([Amazon](https://www.amazon.com/gp/product/B07Q167J98/ref=ewc_pr_img_4?smid=A2SCLCWYE2XLX3&psc=1))
-- [ ] Solder Wick ([Amazon](https://www.amazon.com/gp/product/B094GZ6CPZ/ref=ox_sc_act_title_11?smid=ATC1HM24MD6HA&psc=1))
-- [ ] Solder Tip Tinner ([Amazon](https://www.amazon.com/gp/product/B00NS4J6BY/ref=ewc_pr_img_1?smid=A614WYM65K035&psc=1))
+- [x] Solder Paste ([Amazon](https://www.amazon.com/gp/product/B0BLSJQPR6/ref=ox_sc_act_title_7?smid=A1NSYQXYRWRLYY&psc=1))
+- [x] Flux ([Amazon](https://www.amazon.com/gp/product/B08KJRCYRH/ref=ox_sc_act_title_8?smid=A2GPLZGUK8NBW5&psc=1))
+- [x] Lead-Free Solder ([Amazon](https://www.amazon.com/gp/product/B07Q167J98/ref=ewc_pr_img_4?smid=A2SCLCWYE2XLX3&psc=1))
+- [x] Solder Wick ([Amazon](https://www.amazon.com/gp/product/B094GZ6CPZ/ref=ox_sc_act_title_11?smid=ATC1HM24MD6HA&psc=1))
+- [x] Solder Tip Tinner ([Amazon](https://www.amazon.com/gp/product/B00NS4J6BY/ref=ewc_pr_img_1?smid=A614WYM65K035&psc=1))
 - [x] Switches ([Gateron Milky Yellows](https://www.amazon.com/gp/product/B0BBPD1W9W/ref=ox_sc_act_title_13?smid=A3L9NMSYTD5SO9&psc=1))
 - [ ] Hot Swap Sockets ([Amazon](https://www.amazon.com/gp/product/B0B4W9YMGM/ref=ox_sc_act_title_14?smid=A1G6HFHDKP9H5J&psc=1))
 - [ ] Stabilizers ([Amazon](https://www.amazon.com/gp/product/B0CN36LV22/ref=ox_sc_act_title_12?smid=A1G6HFHDKP9H5J&psc=1))
@@ -43,9 +43,9 @@ A wireless, 60% layout, hot swappable, custom keyboard designed with an nRF52840
 ## Steps
 1. [x] Select Components
 2. [x] Design Schematic
-3. [ ] Design PCB
+3. [x] Design PCB
 4. [ ] Order PCB and Stencil
 5. [ ] Order Electronic Components
-6. [ ] Acquire the necessary tools
+6. [x] Acquire the necessary tools
 7. [ ] Assemble boards
 8. [ ] Test and validate
