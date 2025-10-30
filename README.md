@@ -1,5 +1,6 @@
 # Custom Keyboard Project
-A wireless, 60% layout, hot swappable, custom keyboard designed with an nRF52840 in Kicad
+![Screenshot of the keyboard in 3d.](/60WKeyboard/review-files/60WKeyboard-3d.png)
+A wireless, 60% layout, hot swappable, custom keyboard designed with an nRF52840 in Kicad. This keyboard is meant to be as efficient as possible for longer battery life.
 
 ## Criteria
 - Wireless
