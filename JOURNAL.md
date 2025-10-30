@@ -6,17 +6,28 @@
   ==================================================================
 -->
 
-## 10/30/2025 - Created Schematics and Routed PCB  
+## 10/30/2025 5:22 PM - Created Schematics  
 
-Creating the schematic was pretty easy. However, routing the board was much more difficult. It was difficult routing the large number of traces out of the small package of the nRF52840. The keyboard uses a nRF52840 microcontroller for wireless communication and the nPM1300 for power and battery regulation. These two chips make the keyboard extremely power efficient.
+Creating the schematic was pretty easy. The keyboard uses a nRF52840 microcontroller for wireless communication and the nPM1300 for power and battery regulation. These two chips make the keyboard extremely power efficient.
 
 ![page_1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjgwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--a0e63d25f786646b087b92d37b4d9cc5fc218aeb/page_1.png)
 ![page_3](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjgwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--cf96534f4432a95b32d62a2fc8261de16b230035/page_3.png)
 ![page_2](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjgwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--54e2269b2f98cd611b576b1461b63a7545b3a42c/page_2.png)
+  
+
+## 10/30/2025 5:34 PM - Routed the PCB  
+
+Routing the board was much more difficult than creating the schematic. It was difficult because of the large number of traces that had to be routed out of the nRF52840 which has a hybrid QFN / BGA package. I needed to use this specific package because it was the only one to have the USB pins broken out. After routing the nPM1300 and the high speed lines of the nRF52840 like the USB and RF, it was smooth sailing. Connecting the keyboard matrix together was relatively easy.
 
 ![front](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjgwNywicHVyIjoiYmxvYl9pZCJ9fQ==--4f4a19e08fadbaee40f1ed9df70dc75a2d4bbf9e/front.png)
 ![in1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjgwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--d852e86ccecf906b3d98994b51901c4d0275b815/in1.png)
 ![in2](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjgwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--0cf1f246cdf5519e8226fd01b9cc7353e76312d1/in2.png)
-![back](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjgxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--70a196694ea8e5732a46303dffe3e0e9c81527b9/back.png)
+![back](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjgxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--70a196694ea8e5732a46303dffe3e0e9c81527b9/back.png)  
+
+## 10/30/2025 5:40 PM - PCB Reviewed by r/PrintedCircuitBoard  
+
+After completing the schematic and board, I sent my PCB for review to the people over at r/PrintedCircuitBoard. On this subreddit there are plenty of knowledgeable people. They review boards uploaded there for free. After uploading my board I got a list of improvements to make, and I made the improvements. The main changes were adding a second impedance matching network for the antenna which was not there before, breaking out the SWD pins, and updating some of the power routing.
+
+![Screenshot 2025-10-30 173603](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjgxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--37b3378d9c83a540548f9f99f9646e8b161bdfca/Screenshot%202025-10-30%20173603.png)
   
 
