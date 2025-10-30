@@ -24,3 +24,10 @@ Routing the board was much more difficult than creating the schematic. It was di
 ![in2](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjgwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--0cf1f246cdf5519e8226fd01b9cc7353e76312d1/in2.png)
 ![back](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjgxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--70a196694ea8e5732a46303dffe3e0e9c81527b9/back.png)  
 
+## 10/30/2025 5:40 PM - PCB Reviewed by r/PrintedCircuitBoard  
+
+After completing the schematic and board, I sent my PCB for review to the people over at r/PrintedCircuitBoard. On this subreddit there are plenty of knowledgeable people. They review boards uploaded there for free. After uploading my board I got a list of improvements to make, and I made the improvements. The main changes were adding a second impedance matching network for the antenna which was not there before, breaking out the SWD pins, and updating some of the power routing.
+
+![Screenshot 2025-10-30 173603](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjgxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--37b3378d9c83a540548f9f99f9646e8b161bdfca/Screenshot%202025-10-30%20173603.png)
+  
+
