@@ -1,4 +1,4 @@
-26951705648651958
+26965793719370305
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -95123,6 +95123,13 @@ Integrated Circuit
 8
 8
 SamacSys_Parts
+PA2369NL
+PA2369NL-3
+Transformer
+0
+10
+10
+SamacSys_Parts
 PEC12R2217FS0024
 PEC12R-2217F-S0024-2
 Undefined or Miscellaneous
@@ -95256,12 +95263,40 @@ SW_SKRPABE010
 4
 4
 SamacSys_Parts
+TPS23734RMTR
+TPS23734RMTR-2
+Integrated Circuit
+0
+47
+47
+SamacSys_Parts
 USBAPSRA
 USB-AP-S-RA-3
 Connector
 0
 6
 6
+SamacSys_Parts
+WE-FLYLT_750315828
+
+
+0
+6
+6
+SamacSys_Parts
+WE-LAN_749013011A
+
+
+0
+16
+16
+SamacSys_Parts
+XCVR_DP83825IRMQT
+
+
+0
+30
+30
 SamacSys_Parts
 XCVR_ESP32-C3-MINI-1-N4
 
@@ -95284,12 +95319,33 @@ XIAO-nRF52840-SMD
 22
 22
 SamacSys_Parts
+XTAL_ABM8-25.000MHz-20-D1X-T
+
+
+0
+4
+4
+SamacSys_Parts
 XTAL_ECS-.327-7-12-TR
 
 
 0
 2
 2
+SamacSys_Parts
+XTAL_ECS-163.84-10-36-JGN-TR
+
+
+0
+4
+4
+SamacSys_Parts
+XTAL_ECS-250-8-37-RWN-TR
+
+
+0
+4
+4
 ScottoKeebs_Alps
 Alps
 Alps/keyswitch
