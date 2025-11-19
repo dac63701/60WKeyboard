@@ -1,4 +1,4 @@
-26965793719370305
+26976390092685152
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -95067,6 +95067,27 @@ Integrated Circuit
 27
 27
 SamacSys_Parts
+FDMC_2523P_ONS
+
+FDMC2523P 
+0
+8
+8
+SamacSys_Parts
+FDMC_2523P_ONS-L
+
+FDMC2523P 
+0
+8
+8
+SamacSys_Parts
+FDMC_2523P_ONS-M
+
+FDMC2523P 
+0
+8
+8
+SamacSys_Parts
 GCT_USB4105-GF-A
 
 
@@ -95185,6 +95206,27 @@ Resistor
 0
 2
 2
+SamacSys_Parts
+RGE0024B_TEX
+
+DRV8434SRGER 
+0
+25
+25
+SamacSys_Parts
+RGE0024B_TEX-L
+
+DRV8434SRGER 
+0
+25
+25
+SamacSys_Parts
+RGE0024B_TEX-M
+
+DRV8434SRGER 
+0
+25
+25
 SamacSys_Parts
 RJHSE5381
 RJHSE-5381-1
