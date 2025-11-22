@@ -16871,7 +16871,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CONMHF1SMDT"
+		(property "Footprint" "SamacSys_Parts:CONMHF1SMDT"
 			(at 434.34 300.66 0)
 			(effects
 				(font
