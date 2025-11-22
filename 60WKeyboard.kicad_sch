@@ -10,179 +10,6 @@
 		(rev "v0.3")
 	)
 	(lib_symbols
-		(symbol "AMCA31-2R450G-S1F-T3:AMCA31-2R450G-S1F-T3"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "E"
-				(at 2.8004 5.8496 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "AMCA31-2R450G-S1F-T3"
-				(at 2.6732 3.813 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "AMCA31-2R450G-S1F-T3:XDCR_AMCA31-2R450G-S1F-T3"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "03-21-19"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "SNAPEDA_PN" "AMCA31-2R450G-S1F-T3"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "1.4mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "Abracon"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "AMCA31-2R450G-S1F-T3_0_0"
-				(polyline
-					(pts
-						(xy 0 8.001) (xy 0 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy -2.667 8.001)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0 -5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.413 8.001) (xy 0 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin input line
-					(at 0 -5.08 90)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Connector:Conn_01x04_Socket"
 			(pin_names
 				(offset 1.016)
@@ -3078,6 +2905,194 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "SamacSys_Parts:CONMHF1-SMD-T"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 20.066 14.986 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "CONMHF1-SMD-T"
+				(at 20.066 12.446 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "CONMHF1SMDT"
+				(at 26.67 -84.76 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=conmhf1-smd-g-t-ds&DocType=Data%20Sheet&DocLang=English&PartCntxt=CONMHF1-SMD-T&DocFormat=pdf"
+				(at 26.67 -184.76 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "U.FL (UMCC) Connector Jack, Male Pin 50 Ohms Surface Mount Solder"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "1.31"
+				(at 26.67 -384.76 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "712-CONMHF1-SMD-T"
+				(at 26.67 -484.76 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Linx-Technologies/CONMHF1-SMD-T?qs=7D1LtPJG0i2FCBGfMy%252B%252BIw%3D%3D"
+				(at 26.67 -584.76 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "TE Connectivity"
+				(at 26.67 -684.76 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "CONMHF1-SMD-T"
+				(at 26.67 -784.76 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "CONMHF1-SMD-T_1_1"
+				(rectangle
+					(start 7.62 8.89)
+					(end 22.86 -8.89)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 0)
+					(length 5.08)
+					(name "SIGNAL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 27.94 5.08 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 27.94 0 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 27.94 -5.08 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "SamacSys_Parts:NPM1300-QEAA-R7"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -5938,7 +5953,7 @@
 	)
 	(rectangle
 		(start 354.33 195.58)
-		(end 419.1 237.49)
+		(end 447.04 237.49)
 		(stroke
 			(width 0)
 			(type default)
@@ -5947,6 +5962,18 @@
 			(type none)
 		)
 		(uuid 8a492dea-b484-4917-bb36-1f190103ef46)
+	)
+	(rectangle
+		(start 454.66 195.58)
+		(end 497.84 231.14)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 9c9051ff-f06c-49f0-a24e-30a89ec60542)
 	)
 	(rectangle
 		(start 213.36 224.79)
@@ -6104,6 +6131,16 @@
 		)
 		(uuid "dcd671e1-e99a-4e2b-970f-5e3d66786837")
 	)
+	(text "RGB Mosfet"
+		(exclude_from_sim no)
+		(at 492.76 232.918 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e0240d6c-1766-46c8-a4a0-26d2f76d7686")
+	)
 	(text "Ground to PVSS2"
 		(exclude_from_sim no)
 		(at 231.648 198.882 0)
@@ -6116,7 +6153,7 @@
 	)
 	(text "RF Matching Network and Antenna"
 		(exclude_from_sim no)
-		(at 405.13 239.268 0)
+		(at 433.07 239.268 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6139,6 +6176,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "01a61852-1927-400d-a104-e611b23dced2")
+	)
+	(junction
+		(at 440.69 215.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "05d7f591-571b-4a9f-9489-def49605178e")
 	)
 	(junction
 		(at 257.81 281.94)
@@ -6217,6 +6260,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2b9e357e-a402-4f0a-8642-bf51461d248c")
+	)
+	(junction
+		(at 440.69 220.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2ffb53d5-d36a-4dcf-b2c4-48c4830ebb7a")
 	)
 	(junction
 		(at 162.56 124.46)
@@ -6351,7 +6400,7 @@
 		(uuid "8475c3f5-f089-4c5f-b6bd-e9833fdd3df9")
 	)
 	(junction
-		(at 445.77 218.44)
+		(at 472.44 212.09)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "871bf8b6-2000-4f95-8cfc-e57e3052364a")
@@ -6483,7 +6532,7 @@
 		(uuid "c30c3890-e409-48bd-b2b9-f0396b03b09b")
 	)
 	(junction
-		(at 455.93 233.68)
+		(at 482.6 227.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c81e93e4-3291-4b7d-a961-d043a99b1314")
@@ -6892,7 +6941,7 @@
 	)
 	(wire
 		(pts
-			(xy 455.93 210.82) (xy 455.93 213.36)
+			(xy 482.6 204.47) (xy 482.6 207.01)
 		)
 		(stroke
 			(width 0)
@@ -7052,6 +7101,16 @@
 	)
 	(wire
 		(pts
+			(xy 435.61 220.98) (xy 440.69 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "148f59bb-4f45-46d6-b91d-dbe268394110")
+	)
+	(wire
+		(pts
 			(xy 364.49 120.65) (xy 367.03 120.65)
 		)
 		(stroke
@@ -7192,7 +7251,7 @@
 	)
 	(wire
 		(pts
-			(xy 455.93 233.68) (xy 455.93 223.52)
+			(xy 482.6 227.33) (xy 482.6 217.17)
 		)
 		(stroke
 			(width 0)
@@ -7282,7 +7341,7 @@
 	)
 	(wire
 		(pts
-			(xy 402.59 215.9) (xy 412.75 215.9)
+			(xy 402.59 215.9) (xy 410.21 215.9)
 		)
 		(stroke
 			(width 0)
@@ -7292,7 +7351,7 @@
 	)
 	(wire
 		(pts
-			(xy 445.77 231.14) (xy 445.77 233.68)
+			(xy 472.44 224.79) (xy 472.44 227.33)
 		)
 		(stroke
 			(width 0)
@@ -7732,7 +7791,7 @@
 	)
 	(wire
 		(pts
-			(xy 443.23 218.44) (xy 445.77 218.44)
+			(xy 469.9 212.09) (xy 472.44 212.09)
 		)
 		(stroke
 			(width 0)
@@ -7989,16 +8048,6 @@
 			(type default)
 		)
 		(uuid "555a3cff-3e7a-4d0a-a6d6-112ea1a16311")
-	)
-	(wire
-		(pts
-			(xy 412.75 210.82) (xy 412.75 215.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "55dd4fa9-338a-4301-9aab-78313515ef57")
 	)
 	(wire
 		(pts
@@ -8442,7 +8491,7 @@
 	)
 	(wire
 		(pts
-			(xy 461.01 228.6) (xy 461.01 233.68)
+			(xy 487.68 222.25) (xy 487.68 227.33)
 		)
 		(stroke
 			(width 0)
@@ -8642,6 +8691,16 @@
 	)
 	(wire
 		(pts
+			(xy 435.61 210.82) (xy 440.69 210.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8701b9ae-89b3-498f-b400-36f1c728f25e")
+	)
+	(wire
+		(pts
 			(xy 172.72 114.3) (xy 172.72 115.57)
 		)
 		(stroke
@@ -8762,7 +8821,7 @@
 	)
 	(wire
 		(pts
-			(xy 461.01 233.68) (xy 455.93 233.68)
+			(xy 487.68 227.33) (xy 482.6 227.33)
 		)
 		(stroke
 			(width 0)
@@ -8792,7 +8851,7 @@
 	)
 	(wire
 		(pts
-			(xy 445.77 218.44) (xy 445.77 223.52)
+			(xy 472.44 212.09) (xy 472.44 217.17)
 		)
 		(stroke
 			(width 0)
@@ -8892,7 +8951,7 @@
 	)
 	(wire
 		(pts
-			(xy 445.77 233.68) (xy 455.93 233.68)
+			(xy 472.44 227.33) (xy 482.6 227.33)
 		)
 		(stroke
 			(width 0)
@@ -8989,6 +9048,16 @@
 			(type default)
 		)
 		(uuid "9ebd5b50-1c95-4171-a58b-4e33b68e0560")
+	)
+	(wire
+		(pts
+			(xy 435.61 215.9) (xy 440.69 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a171af87-6730-4413-b02e-f90c5ee4633d")
 	)
 	(wire
 		(pts
@@ -9132,7 +9201,7 @@
 	)
 	(wire
 		(pts
-			(xy 445.77 218.44) (xy 448.31 218.44)
+			(xy 472.44 212.09) (xy 474.98 212.09)
 		)
 		(stroke
 			(width 0)
@@ -9489,6 +9558,16 @@
 			(type default)
 		)
 		(uuid "c68559f6-1c7e-4631-b064-1b254b511c18")
+	)
+	(wire
+		(pts
+			(xy 440.69 215.9) (xy 440.69 220.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6ec13c2-a93a-4c60-a600-66e786c5544b")
 	)
 	(wire
 		(pts
@@ -9902,6 +9981,16 @@
 	)
 	(wire
 		(pts
+			(xy 440.69 220.98) (xy 440.69 226.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5158091-3e8c-4af9-a659-d9d08eeb5ba3")
+	)
+	(wire
+		(pts
 			(xy 161.29 195.58) (xy 158.75 195.58)
 		)
 		(stroke
@@ -10219,6 +10308,16 @@
 			(type default)
 		)
 		(uuid "fa50a8a7-b0ec-4bcc-a3db-76a19ad8ca25")
+	)
+	(wire
+		(pts
+			(xy 440.69 210.82) (xy 440.69 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb569dbb-56db-4da7-9db8-70fcf31ee8f7")
 	)
 	(wire
 		(pts
@@ -10621,7 +10720,7 @@
 		(uuid "5c78ff5e-6f47-4ef5-a4c8-05e9dbb071b3")
 	)
 	(label "RGB_POWER"
-		(at 443.23 218.44 180)
+		(at 469.9 212.09 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11814,123 +11913,6 @@
 		)
 	)
 	(symbol
-		(lib_id "AMCA31-2R450G-S1F-T3:AMCA31-2R450G-S1F-T3")
-		(at 412.75 205.74 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "12f88b14-14ca-47c2-9eb0-315685e637c2")
-		(property "Reference" "E1"
-			(at 409.956 204.978 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "AMCA31-2R450G-S1F-T3"
-			(at 391.414 207.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:XDCR_AMCA31-2R450G-S1F-T3"
-			(at 412.75 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 412.75 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 412.75 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "03-21-19"
-			(at 412.75 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 412.75 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SNAPEDA_PN" "AMCA31-2R450G-S1F-T3"
-			(at 412.75 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "1.4mm"
-			(at 412.75 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Abracon"
-			(at 412.75 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3ed5d3f0-17f4-4ec4-bb62-7d0c3aa38a9a")
-		)
-		(instances
-			(project "60WKeyboard"
-				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6"
-					(reference "E1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 243.84 287.02 0)
 		(unit 1)
@@ -12471,17 +12453,17 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 455.93 210.82 0)
+		(lib_id "power:GND")
+		(at 440.69 226.06 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "28cbd460-e123-4cd8-a1a5-ef7cbc3374a5")
-		(property "Reference" "#PWR02"
-			(at 455.93 214.63 0)
+		(uuid "28b32cc4-4127-4bd4-8c37-dfcb7a013b01")
+		(property "Reference" "#PWR018"
+			(at 440.69 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12489,8 +12471,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+5V"
-			(at 455.93 205.74 0)
+		(property "Value" "GND"
+			(at 440.69 231.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12498,7 +12480,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 455.93 210.82 0)
+			(at 440.69 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12507,7 +12489,73 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 455.93 210.82 0)
+			(at 440.69 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 440.69 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d5216dda-cb23-4220-b709-7df2372fb8ae")
+		)
+		(instances
+			(project "60WKeyboard"
+				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6"
+					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 482.6 204.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "28cbd460-e123-4cd8-a1a5-ef7cbc3374a5")
+		(property "Reference" "#PWR02"
+			(at 482.6 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 482.6 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 482.6 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 482.6 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12516,7 +12564,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 455.93 210.82 0)
+			(at 482.6 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14694,7 +14742,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:DMG2301L")
-		(at 453.39 218.44 0)
+		(at 480.06 212.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14703,7 +14751,7 @@
 		(fields_autoplaced yes)
 		(uuid "668f8bd0-fbec-45f6-bc8b-632e4aa83d27")
 		(property "Reference" "Q1"
-			(at 459.74 217.1699 0)
+			(at 486.41 210.8199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14712,7 +14760,7 @@
 			)
 		)
 		(property "Value" "DMG2301L"
-			(at 459.74 219.7099 0)
+			(at 486.41 213.3599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14721,7 +14769,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 458.47 220.345 0)
+			(at 485.14 213.995 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14732,7 +14780,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/DMG2301L.pdf"
-			(at 458.47 222.25 0)
+			(at 485.14 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14742,7 +14790,7 @@
 			)
 		)
 		(property "Description" "-3A Id, -20V Vds, P-Channel MOSFET, SOT-23"
-			(at 453.39 218.44 0)
+			(at 480.06 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15336,7 +15384,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 461.01 228.6 0)
+		(at 487.68 222.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15345,7 +15393,7 @@
 		(fields_autoplaced yes)
 		(uuid "7b53613c-3579-4f74-90c4-c8c19c371cf9")
 		(property "Reference" "#PWR03"
-			(at 461.01 232.41 0)
+			(at 487.68 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15354,7 +15402,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 461.01 223.52 0)
+			(at 487.68 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15362,7 +15410,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 461.01 228.6 0)
+			(at 487.68 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15371,7 +15419,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 461.01 228.6 0)
+			(at 487.68 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15380,7 +15428,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 461.01 228.6 0)
+			(at 487.68 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16793,6 +16841,131 @@
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6"
 					(reference "TP5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:CONMHF1-SMD-T")
+		(at 407.67 215.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a00d215b-3715-489e-af96-b32d34887154")
+		(property "Reference" "J4"
+			(at 422.91 202.946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CONMHF1-SMD-T"
+			(at 422.91 205.486 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "CONMHF1SMDT"
+			(at 434.34 300.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=conmhf1-smd-g-t-ds&DocType=Data%20Sheet&DocLang=English&PartCntxt=CONMHF1-SMD-T&DocFormat=pdf"
+			(at 434.34 400.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "U.FL (UMCC) Connector Jack, Male Pin 50 Ohms Surface Mount Solder"
+			(at 407.67 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.31"
+			(at 434.34 600.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "712-CONMHF1-SMD-T"
+			(at 434.34 700.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Linx-Technologies/CONMHF1-SMD-T?qs=7D1LtPJG0i2FCBGfMy%252B%252BIw%3D%3D"
+			(at 434.34 800.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "TE Connectivity"
+			(at 434.34 900.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CONMHF1-SMD-T"
+			(at 434.34 1000.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "278981b9-fe0b-4ec2-aff8-1d331f3fde74")
+		)
+		(pin "4"
+			(uuid "8251b05a-cda2-4243-a44c-78032c2ae238")
+		)
+		(pin "2"
+			(uuid "a77c7a75-610d-4b3f-81d4-b77cffaf3341")
+		)
+		(pin "1"
+			(uuid "c690c047-4128-4f61-84a1-c61d7dec259b")
+		)
+		(instances
+			(project ""
+				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6"
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -19500,7 +19673,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 445.77 227.33 180)
+		(at 472.44 220.98 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19509,7 +19682,7 @@
 		(fields_autoplaced yes)
 		(uuid "f550a6d5-14da-4ebf-b66c-5124abc3ee94")
 		(property "Reference" "R9"
-			(at 448.31 226.0599 0)
+			(at 474.98 219.7099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19518,7 +19691,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 448.31 228.5999 0)
+			(at 474.98 222.2499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19527,7 +19700,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 447.548 227.33 90)
+			(at 474.218 220.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19536,7 +19709,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 445.77 227.33 0)
+			(at 472.44 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19545,7 +19718,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 445.77 227.33 0)
+			(at 472.44 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
