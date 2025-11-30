@@ -109,20 +109,8 @@
           ""
         ],
         [
-          "silk_edge_clearance|311523500|78434000|7c28ccdb-e274-48e3-9a08-2b2d09bc6cff|434a6b4a-5dcd-425e-98a1-fd5ed1b899cc",
+          "unconnected_items|337745000|138750000|F.Cu|4|c7e88329-085e-44e5-98f0-ebe55959508a|864c71f6-2ec8-41e1-bc40-90ee6cf8e178",
           ""
-        ],
-        [
-          "silk_edge_clearance|320463500|78341500|7c28ccdb-e274-48e3-9a08-2b2d09bc6cff|aaab5f03-1967-490b-9eca-e8cded3f67ba",
-          ""
-        ],
-        [
-          "silk_edge_clearance|320463500|78434000|7c28ccdb-e274-48e3-9a08-2b2d09bc6cff|951fb5ab-cce8-4fce-b225-4eded36add9d",
-          ""
-        ],
-        [
-          "unconnected_items|337746000|138750000|F.Cu|4|864c71f6-2ec8-41e1-bc40-90ee6cf8e178|c7e88329-085e-44e5-98f0-ebe55959508a",
-          "this is gap under mosfet"
         ]
       ],
       "meta": {
