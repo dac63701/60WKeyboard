@@ -109,6 +109,22 @@
           ""
         ],
         [
+          "nonmirrored_text_on_back_layer|344845000|160325000|697c5f37-12bb-4d21-bfa3-e0bdb91416b9|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_edge_clearance|311523500|78434000|7c28ccdb-e274-48e3-9a08-2b2d09bc6cff|99c63b6e-735f-469c-8948-3b495a785e7e",
+          ""
+        ],
+        [
+          "silk_edge_clearance|320463500|78341500|7c28ccdb-e274-48e3-9a08-2b2d09bc6cff|7327e2d5-6414-4b24-8c2f-254841a92434",
+          ""
+        ],
+        [
+          "silk_edge_clearance|320463500|78434000|7c28ccdb-e274-48e3-9a08-2b2d09bc6cff|c293019e-cdf3-4be7-955f-603695ca2a58",
+          ""
+        ],
+        [
           "unconnected_items|337745000|138750000|F.Cu|4|c7e88329-085e-44e5-98f0-ebe55959508a|864c71f6-2ec8-41e1-bc40-90ee6cf8e178",
           ""
         ]
