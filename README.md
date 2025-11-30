@@ -19,7 +19,7 @@ A wireless, 60% layout, hot swappable, custom keyboard designed with an nRF52840
 - [x] Solder Wick ([Amazon](https://www.amazon.com/gp/product/B094GZ6CPZ/ref=ox_sc_act_title_11?smid=ATC1HM24MD6HA&psc=1))
 - [x] Solder Tip Tinner ([Amazon](https://www.amazon.com/gp/product/B00NS4J6BY/ref=ewc_pr_img_1?smid=A614WYM65K035&psc=1))
 - [x] Switches ([Gateron Milky Yellows](https://www.amazon.com/gp/product/B0BBPD1W9W/ref=ox_sc_act_title_13?smid=A3L9NMSYTD5SO9&psc=1))
-- [ ] Hot Swap Sockets ([Amazon](https://www.amazon.com/gp/product/B0B4W9YMGM/ref=ox_sc_act_title_14?smid=A1G6HFHDKP9H5J&psc=1))
+- [x] Hot Swap Sockets ([Amazon](https://www.amazon.com/gp/product/B0B4W9YMGM/ref=ox_sc_act_title_14?smid=A1G6HFHDKP9H5J&psc=1))
 - [ ] Stabilizers ([Amazon](https://www.amazon.com/gp/product/B0CN36LV22/ref=ox_sc_act_title_12?smid=A1G6HFHDKP9H5J&psc=1))
 - [x] Keycaps (Aliexpress)
 - [ ] Case (3d Printed)
@@ -36,9 +36,9 @@ A wireless, 60% layout, hot swappable, custom keyboard designed with an nRF52840
 - [x] Hot Plate (Amazon)
 - [x] Fume Extractor ([Kotto](https://www.amazon.com/gp/product/B07VWDN29F/ref=ox_sc_act_title_2?smid=A38V7SOCF2OM8H&psc=1))
 - [x] Digital Microscope ([AD246S-M](https://www.amazon.com/gp/product/B09VPPS96M/ref=ox_sc_act_title_5?smid=A2YDP7W2SGBPL2&psc=1))
-- [ ] Tweezers (Amazon)
-- [ ] Helping Hands ([Amazon](https://www.amazon.com/gp/product/B0BHHVP467/ref=ox_sc_act_title_10?smid=A3FKADQL4BXVZ2&psc=1))
-- [ ] Soldering Iron Brass Sponge ([Amazon](https://www.amazon.com/gp/product/B08FQBS97L/ref=ox_sc_act_title_9?smid=ATVPDKIKX0DER&psc=1))
+- [x] Tweezers (Amazon)
+- [x] Helping Hands ([Amazon](https://www.amazon.com/gp/product/B0BHHVP467/ref=ox_sc_act_title_10?smid=A3FKADQL4BXVZ2&psc=1))
+- [x] Soldering Iron Brass Sponge ([Amazon](https://www.amazon.com/gp/product/B08FQBS97L/ref=ox_sc_act_title_9?smid=ATVPDKIKX0DER&psc=1))
 - [x] 3d Printer
 
 ## Steps
