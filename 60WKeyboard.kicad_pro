@@ -109,10 +109,6 @@
           ""
         ],
         [
-          "nonmirrored_text_on_back_layer|344845000|160325000|697c5f37-12bb-4d21-bfa3-e0bdb91416b9|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
           "silk_edge_clearance|311523500|78434000|7c28ccdb-e274-48e3-9a08-2b2d09bc6cff|99c63b6e-735f-469c-8948-3b495a785e7e",
           ""
         ],
@@ -626,7 +622,7 @@
       "plot": "review-files/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "60WKeyboard.step",
       "svg": "",
       "vrml": ""
     },
