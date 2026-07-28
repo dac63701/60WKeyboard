@@ -63,7 +63,7 @@
           "min_clearance": 0.0,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
-          "pad_connection": 1,
+          "pad_connection": 2,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
@@ -81,68 +81,7 @@
           "width": 0.1417
         }
       ],
-      "drc_exclusions": [
-        [
-          "footprint_type_mismatch|315993500|80441500|5a089860-d2d1-4530-92ab-056fa3bd0218|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "hole_clearance|339595000|96075000|45080f5e-ad27-4c85-a390-d4294125fa38|4bc5d568-e865-4f39-ba03-aca4cc4999b2",
-          ""
-        ],
-        [
-          "hole_clearance|339595000|97075000|45080f5e-ad27-4c85-a390-d4294125fa38|2329fb8d-9831-43ed-a2a1-181da8f305f2",
-          ""
-        ],
-        [
-          "hole_clearance|339595000|97575000|45080f5e-ad27-4c85-a390-d4294125fa38|279087a6-64b3-4b74-9d88-22d9c942840f",
-          ""
-        ],
-        [
-          "hole_clearance|341020000|94650000|45080f5e-ad27-4c85-a390-d4294125fa38|15db3e58-22d6-476c-9d07-60ee0997e128",
-          ""
-        ],
-        [
-          "hole_clearance|341520000|94650000|45080f5e-ad27-4c85-a390-d4294125fa38|72751f7c-429f-4918-9130-cb8a05683ead",
-          ""
-        ],
-        [
-          "hole_clearance|342020000|94650000|45080f5e-ad27-4c85-a390-d4294125fa38|193bab68-3e79-4d93-b76b-d149973718ab",
-          ""
-        ],
-        [
-          "hole_clearance|342520000|94650000|45080f5e-ad27-4c85-a390-d4294125fa38|d48560fb-00cf-4d87-bd23-272b92eb7768",
-          ""
-        ],
-        [
-          "hole_clearance|343020000|94650000|45080f5e-ad27-4c85-a390-d4294125fa38|92007e0d-9085-42d1-85c9-8c0b81a67ca5",
-          ""
-        ],
-        [
-          "hole_clearance|343520000|94650000|45080f5e-ad27-4c85-a390-d4294125fa38|545dbc1d-b5b2-42ea-b70b-3a1aed8923a5",
-          ""
-        ],
-        [
-          "hole_clearance|344020000|94650000|45080f5e-ad27-4c85-a390-d4294125fa38|7b0ed4ac-f868-45ad-bebf-30e01cc74a77",
-          ""
-        ],
-        [
-          "silk_edge_clearance|311523500|78434000|7c28ccdb-e274-48e3-9a08-2b2d09bc6cff|99c63b6e-735f-469c-8948-3b495a785e7e",
-          ""
-        ],
-        [
-          "silk_edge_clearance|320463500|78341500|7c28ccdb-e274-48e3-9a08-2b2d09bc6cff|7327e2d5-6414-4b24-8c2f-254841a92434",
-          ""
-        ],
-        [
-          "silk_edge_clearance|320463500|78434000|7c28ccdb-e274-48e3-9a08-2b2d09bc6cff|c293019e-cdf3-4be7-955f-603695ca2a58",
-          ""
-        ],
-        [
-          "unconnected_items|337745000|138750000|F.Cu|4|c7e88329-085e-44e5-98f0-ebe55959508a|864c71f6-2ec8-41e1-bc40-90ee6cf8e178",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -284,7 +223,10 @@
         0.18,
         0.2,
         0.22,
-        0.4
+        0.27,
+        0.4,
+        0.6,
+        0.8
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -860,7 +802,7 @@
         "uuid": "a348110a-0b31-458b-8c85-d9f8cb2d19b6"
       }
     ],
-    "used_designators": "J4,VDD2,TP1",
+    "used_designators": "PMIC1,SHPHLD1,Q1,D1-62,Y1-2,3V1-2,GND1,#PWR1-83,LED1-61,VBUS1,L1-3,H1-6,R1-5,S1-61,5V1,U1-2,SW1,FB1,C1-31,C35,J1-5,VBAT1,VDD1-2,TP1",
     "variants": []
   },
   "sheets": [

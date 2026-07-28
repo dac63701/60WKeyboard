@@ -5595,7 +5595,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "02060444-995a-4211-9cf6-7294347606ab")
-		(property "Reference" "LED26"
+		(property "Reference" "LED54"
 			(at 296.926 89.154 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5808,7 +5808,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED26")
+					(reference "LED54")
 					(unit 1)
 				)
 			)
@@ -5825,7 +5825,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "026a9aa0-8849-4950-b297-e3021dc3a48b")
-		(property "Reference" "LED10"
+		(property "Reference" "LED45"
 			(at 261.366 63.754 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6038,7 +6038,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED10")
+					(reference "LED45")
 					(unit 1)
 				)
 			)
@@ -6055,7 +6055,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "05c7a6ae-463f-42e0-a194-c737c2d069ac")
-		(property "Reference" "LED15"
+		(property "Reference" "LED2"
 			(at 101.346 89.154 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6268,7 +6268,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED15")
+					(reference "LED2")
 					(unit 1)
 				)
 			)
@@ -6285,7 +6285,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "07baacf8-686e-4c5f-ba1d-278658a5400e")
-		(property "Reference" "LED18"
+		(property "Reference" "LED17"
 			(at 154.686 89.154 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6498,7 +6498,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED18")
+					(reference "LED17")
 					(unit 1)
 				)
 			)
@@ -6515,7 +6515,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0c3433f4-981e-496d-a538-b0a5bb49d164")
-		(property "Reference" "LED57"
+		(property "Reference" "LED20"
 			(at 154.686 165.354 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6728,7 +6728,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED57")
+					(reference "LED20")
 					(unit 1)
 				)
 			)
@@ -6745,7 +6745,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0c7960f0-0b14-48b1-8173-a598d2becc78")
-		(property "Reference" "LED53"
+		(property "Reference" "LED56"
 			(at 296.926 139.954 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6958,7 +6958,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED53")
+					(reference "LED56")
 					(unit 1)
 				)
 			)
@@ -6975,7 +6975,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "138e59b4-111c-4a27-8702-44482300b8e5")
-		(property "Reference" "LED11"
+		(property "Reference" "LED49"
 			(at 279.146 63.754 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7188,7 +7188,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED11")
+					(reference "LED49")
 					(unit 1)
 				)
 			)
@@ -7205,7 +7205,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "161fe9ae-c605-4116-8ba1-dae415db4efc")
-		(property "Reference" "LED13"
+		(property "Reference" "LED57"
 			(at 314.706 63.754 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7418,7 +7418,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED13")
+					(reference "LED57")
 					(unit 1)
 				)
 			)
@@ -7436,7 +7436,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "19747ae2-4e2a-48d2-8e95-70243a124f7c")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR057"
 			(at 118.11 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -7496,7 +7496,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "#PWR058")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -7513,7 +7513,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1a9381f1-db7c-4a69-94d1-8868faf6cbb4")
-		(property "Reference" "LED9"
+		(property "Reference" "LED41"
 			(at 243.586 63.754 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7726,7 +7726,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED9")
+					(reference "LED41")
 					(unit 1)
 				)
 			)
@@ -7743,7 +7743,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1b829c8a-3206-432d-b67e-ae19e2ea1fa3")
-		(property "Reference" "LED48"
+		(property "Reference" "LED34"
 			(at 208.026 139.954 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7956,7 +7956,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED48")
+					(reference "LED34")
 					(unit 1)
 				)
 			)
@@ -7973,7 +7973,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "209242ec-a34e-46c8-8224-8fcfddf0fce3")
-		(property "Reference" "LED23"
+		(property "Reference" "LED42"
 			(at 243.586 89.154 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8186,7 +8186,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED23")
+					(reference "LED42")
 					(unit 1)
 				)
 			)
@@ -8204,7 +8204,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20f34f8e-0551-4530-bcab-3e850170ef1f")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR050"
 			(at 85.09 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -8264,7 +8264,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "#PWR047")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -8281,7 +8281,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2154bc13-f15e-41d6-a01b-1db74fb28ada")
-		(property "Reference" "LED32"
+		(property "Reference" "LED18"
 			(at 154.686 114.554 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8494,7 +8494,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED32")
+					(reference "LED18")
 					(unit 1)
 				)
 			)
@@ -8511,7 +8511,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2439a145-6f12-444f-b82c-e46c0e1974cb")
-		(property "Reference" "LED4"
+		(property "Reference" "LED16"
 			(at 154.686 63.754 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8724,7 +8724,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED4")
+					(reference "LED16")
 					(unit 1)
 				)
 			)
@@ -8741,7 +8741,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "28f9e823-6c72-44a2-831f-6a50c6621199")
-		(property "Reference" "LED6"
+		(property "Reference" "LED26"
 			(at 190.246 63.754 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8954,7 +8954,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED6")
+					(reference "LED26")
 					(unit 1)
 				)
 			)
@@ -8972,7 +8972,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "29551e6f-f7c5-4a63-a9a2-9ae926b731aa")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR055"
 			(at 102.87 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -9032,7 +9032,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "#PWR059")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -9049,7 +9049,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2a8af275-5ca3-416b-a4c8-5681ae16eda5")
-		(property "Reference" "LED22"
+		(property "Reference" "LED37"
 			(at 225.806 89.154 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9262,7 +9262,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED22")
+					(reference "LED37")
 					(unit 1)
 				)
 			)
@@ -9279,7 +9279,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2d54eb37-e92f-47c8-b96b-d5aa549d0164")
-		(property "Reference" "LED12"
+		(property "Reference" "LED53"
 			(at 296.926 63.754 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9492,7 +9492,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED12")
+					(reference "LED53")
 					(unit 1)
 				)
 			)
@@ -9509,7 +9509,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "392ba75e-4e37-4056-9c2e-5811f719ca8b")
-		(property "Reference" "LED43"
+		(property "Reference" "LED9"
 			(at 119.126 139.954 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9722,7 +9722,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED43")
+					(reference "LED9")
 					(unit 1)
 				)
 			)
@@ -9739,7 +9739,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3a86eee0-1cb8-4903-99c1-3c15edf294d9")
-		(property "Reference" "LED60"
+		(property "Reference" "LED35"
 			(at 208.026 165.354 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9952,7 +9952,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED60")
+					(reference "LED35")
 					(unit 1)
 				)
 			)
@@ -9970,7 +9970,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42c937a1-82d8-48f8-a77e-dfaf471be6a5")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR060"
 			(at 311.15 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -10030,7 +10030,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "#PWR050")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -10047,7 +10047,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "449579a3-2b04-4bb1-8e5c-8cfa7b7d3015")
-		(property "Reference" "LED7"
+		(property "Reference" "LED31"
 			(at 208.026 63.754 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10260,7 +10260,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED7")
+					(reference "LED31")
 					(unit 1)
 				)
 			)
@@ -10277,7 +10277,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "48603303-21b2-4f8b-8cdb-8f878935bcfd")
-		(property "Reference" "LED44"
+		(property "Reference" "LED14"
 			(at 136.906 139.954 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10490,7 +10490,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED44")
+					(reference "LED14")
 					(unit 1)
 				)
 			)
@@ -10507,7 +10507,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4a46ce57-cd73-40e2-a58a-ee8a0b30e412")
-		(property "Reference" "LED5"
+		(property "Reference" "LED21"
 			(at 172.466 63.754 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10720,7 +10720,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED5")
+					(reference "LED21")
 					(unit 1)
 				)
 			)
@@ -10737,7 +10737,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4a82d9a1-30f5-445e-aa92-1e667eb6bcfd")
-		(property "Reference" "LED3"
+		(property "Reference" "LED11"
 			(at 136.906 63.754 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10950,7 +10950,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED3")
+					(reference "LED11")
 					(unit 1)
 				)
 			)
@@ -10967,7 +10967,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4b7b7248-7124-4a55-b8ac-d9b487da025f")
-		(property "Reference" "LED36"
+		(property "Reference" "LED38"
 			(at 225.806 114.554 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11180,7 +11180,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED36")
+					(reference "LED38")
 					(unit 1)
 				)
 			)
@@ -11198,7 +11198,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ca24266-865c-41c4-a300-daa87a9e0548")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR061"
 			(at 328.93 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -11258,7 +11258,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "#PWR048")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -11275,7 +11275,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4ce906aa-fbd1-46ad-b2a5-10869837bd4f")
-		(property "Reference" "LED51"
+		(property "Reference" "LED48"
 			(at 261.366 139.954 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11488,7 +11488,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED51")
+					(reference "LED48")
 					(unit 1)
 				)
 			)
@@ -11505,7 +11505,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "50abc91f-1e2f-41ca-93f8-efce4501d64c")
-		(property "Reference" "LED39"
+		(property "Reference" "LED51"
 			(at 279.146 114.554 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11718,7 +11718,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED39")
+					(reference "LED51")
 					(unit 1)
 				)
 			)
@@ -11735,7 +11735,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "543f8f71-5edc-49f5-b901-d374e28f38b4")
-		(property "Reference" "LED30"
+		(property "Reference" "LED8"
 			(at 119.126 114.554 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11948,7 +11948,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED30")
+					(reference "LED8")
 					(unit 1)
 				)
 			)
@@ -11965,7 +11965,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "55c5329a-8ee6-4147-b5e7-f03749ce1459")
-		(property "Reference" "LED24"
+		(property "Reference" "LED46"
 			(at 261.366 89.154 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12178,7 +12178,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED24")
+					(reference "LED46")
 					(unit 1)
 				)
 			)
@@ -12195,7 +12195,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5af726d3-e159-47eb-87a3-a306ffdcc3ee")
-		(property "Reference" "LED45"
+		(property "Reference" "LED19"
 			(at 154.686 139.954 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12408,7 +12408,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED45")
+					(reference "LED19")
 					(unit 1)
 				)
 			)
@@ -12425,7 +12425,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5e86494e-bc30-4142-8776-aec3b3a0c2bd")
-		(property "Reference" "LED55"
+		(property "Reference" "LED10"
 			(at 119.126 165.354 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12638,7 +12638,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED55")
+					(reference "LED10")
 					(unit 1)
 				)
 			)
@@ -12655,7 +12655,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "60163ab1-a33f-43d6-b00e-ecf292d4ba0d")
-		(property "Reference" "LED40"
+		(property "Reference" "LED55"
 			(at 296.926 114.554 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12868,7 +12868,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED40")
+					(reference "LED55")
 					(unit 1)
 				)
 			)
@@ -12886,7 +12886,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6330c1b0-53d9-4e01-95bb-5bbcd37a24df")
-		(property "Reference" "C28"
+		(property "Reference" "C31"
 			(at 111.76 205.74 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12948,7 +12948,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "C28")
+					(reference "C31")
 					(unit 1)
 				)
 			)
@@ -12965,7 +12965,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "64835167-8378-4018-a1ac-f39f2f16b574")
-		(property "Reference" "LED61"
+		(property "Reference" "LED40"
 			(at 225.806 165.354 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13178,7 +13178,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED61")
+					(reference "LED40")
 					(unit 1)
 				)
 			)
@@ -13195,7 +13195,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6d6a23e4-335e-42e3-872f-40e4cfd44b68")
-		(property "Reference" "LED41"
+		(property "Reference" "LED59"
 			(at 314.706 114.554 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13408,7 +13408,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED41")
+					(reference "LED59")
 					(unit 1)
 				)
 			)
@@ -13425,7 +13425,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "701f77a0-d70e-4706-ba4e-c0fae255348c")
-		(property "Reference" "LED28"
+		(property "Reference" "LED61"
 			(at 332.486 89.154 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13638,7 +13638,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED28")
+					(reference "LED61")
 					(unit 1)
 				)
 			)
@@ -13656,7 +13656,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7043c430-f8cb-4cf0-9731-760da82f1470")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR059"
 			(at 293.37 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -13716,7 +13716,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "#PWR052")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -13734,7 +13734,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "717376ab-d716-4c35-b6ea-0b2b2279e073")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR051"
 			(at 85.09 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -13794,7 +13794,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "#PWR049")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -13811,7 +13811,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7e1c6787-064b-401c-bfca-c26156e21681")
-		(property "Reference" "LED2"
+		(property "Reference" "LED6"
 			(at 119.126 63.754 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14024,7 +14024,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED2")
+					(reference "LED6")
 					(unit 1)
 				)
 			)
@@ -14132,7 +14132,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "84f0b9d3-5b30-4318-adea-c0b3b5581963")
-		(property "Reference" "LED59"
+		(property "Reference" "LED30"
 			(at 190.246 165.354 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14345,7 +14345,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED59")
+					(reference "LED30")
 					(unit 1)
 				)
 			)
@@ -14362,7 +14362,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "85d27fd6-d132-4f97-b125-0db409630af7")
-		(property "Reference" "LED17"
+		(property "Reference" "LED12"
 			(at 136.906 89.154 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14575,7 +14575,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED17")
+					(reference "LED12")
 					(unit 1)
 				)
 			)
@@ -14592,7 +14592,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "86f6487b-8e9a-4808-b30d-b0113a53948e")
-		(property "Reference" "LED20"
+		(property "Reference" "LED27"
 			(at 190.246 89.154 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14805,7 +14805,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED20")
+					(reference "LED27")
 					(unit 1)
 				)
 			)
@@ -14823,7 +14823,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "88917883-7858-4f73-a4e1-0c858580e69b")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR062"
 			(at 341.63 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -14883,7 +14883,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "#PWR046")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -14900,7 +14900,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "893d94ef-4192-4edf-b077-ac2a1f34e4a4")
-		(property "Reference" "LED25"
+		(property "Reference" "LED50"
 			(at 279.146 89.154 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15113,7 +15113,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED25")
+					(reference "LED50")
 					(unit 1)
 				)
 			)
@@ -15590,7 +15590,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8f241abd-bd87-4ff0-a28c-fe64d98fe5e4")
-		(property "Reference" "LED42"
+		(property "Reference" "LED4"
 			(at 101.346 139.954 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15803,7 +15803,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED42")
+					(reference "LED4")
 					(unit 1)
 				)
 			)
@@ -15821,7 +15821,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "908f8a40-085f-4691-88e5-3a51328fb9e7")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR049"
 			(at 85.09 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -15881,7 +15881,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "#PWR045")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -15898,7 +15898,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "92e7dce6-d157-4b17-8adf-b855095b8a3a")
-		(property "Reference" "LED49"
+		(property "Reference" "LED39"
 			(at 225.806 139.954 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16111,7 +16111,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED49")
+					(reference "LED39")
 					(unit 1)
 				)
 			)
@@ -16128,7 +16128,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "93f8c9ab-5fde-4362-b033-8d3e5ac45290")
-		(property "Reference" "LED8"
+		(property "Reference" "LED36"
 			(at 225.806 63.754 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16341,7 +16341,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED8")
+					(reference "LED36")
 					(unit 1)
 				)
 			)
@@ -16358,7 +16358,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9998742f-2cf5-45b0-a7e2-53910d7c05b6")
-		(property "Reference" "LED33"
+		(property "Reference" "LED23"
 			(at 172.466 114.554 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16571,7 +16571,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED33")
+					(reference "LED23")
 					(unit 1)
 				)
 			)
@@ -16588,7 +16588,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9a175d17-f2d0-4ff3-bdb6-91920926858c")
-		(property "Reference" "LED46"
+		(property "Reference" "LED24"
 			(at 172.466 139.954 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16801,7 +16801,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED46")
+					(reference "LED24")
 					(unit 1)
 				)
 			)
@@ -16818,7 +16818,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9a45baa2-eff9-45c0-8a48-3ff0a5c3bd79")
-		(property "Reference" "R8"
+		(property "Reference" "R5"
 			(at 119.38 221.996 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16880,7 +16880,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "R8")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -16897,7 +16897,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9c63288f-4a06-44b0-85c4-b44854512c98")
-		(property "Reference" "LED29"
+		(property "Reference" "LED3"
 			(at 101.346 114.554 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17110,7 +17110,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED29")
+					(reference "LED3")
 					(unit 1)
 				)
 			)
@@ -17128,7 +17128,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a0d88e1e-da4d-47ca-9cdd-85bf39ea8c33")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR056"
 			(at 105.41 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -17188,7 +17188,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "#PWR055")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -17205,7 +17205,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "aa7be968-be05-44f9-8a13-dbdcf54d040c")
-		(property "Reference" "LED31"
+		(property "Reference" "LED13"
 			(at 136.906 114.554 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17418,7 +17418,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED31")
+					(reference "LED13")
 					(unit 1)
 				)
 			)
@@ -17435,7 +17435,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "acb4bf87-dafa-4787-9d6d-18133c18d247")
-		(property "Reference" "LED14"
+		(property "Reference" "LED60"
 			(at 332.486 63.754 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17648,7 +17648,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED14")
+					(reference "LED60")
 					(unit 1)
 				)
 			)
@@ -17665,7 +17665,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "acfc68b5-8a0c-4134-abce-014010e7bb9b")
-		(property "Reference" "LED38"
+		(property "Reference" "LED47"
 			(at 261.366 114.554 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17878,7 +17878,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED38")
+					(reference "LED47")
 					(unit 1)
 				)
 			)
@@ -17896,7 +17896,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b4536e01-8fbd-40c5-b3be-fbb246a3760d")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR047"
 			(at 82.55 217.17 0)
 			(hide yes)
 			(show_name no)
@@ -17956,7 +17956,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "#PWR056")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -17973,7 +17973,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b916db25-0e1f-4607-b0be-c8dcbdbc5302")
-		(property "Reference" "LED35"
+		(property "Reference" "LED33"
 			(at 208.026 114.554 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18186,7 +18186,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED35")
+					(reference "LED33")
 					(unit 1)
 				)
 			)
@@ -18204,7 +18204,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b9d0c46d-5c35-4727-807f-f931dc17acb1")
-		(property "Reference" "C27"
+		(property "Reference" "C30"
 			(at 93.98 205.74 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18266,7 +18266,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "C27")
+					(reference "C30")
 					(unit 1)
 				)
 			)
@@ -18284,7 +18284,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bd9caf5b-5c2a-4293-abfa-e23c5c5cce0a")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR058"
 			(at 222.25 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -18344,7 +18344,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "#PWR053")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -18361,7 +18361,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bfb65ba6-da66-4960-9378-801a83ea7005")
-		(property "Reference" "LED56"
+		(property "Reference" "LED15"
 			(at 136.906 165.354 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18574,7 +18574,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED56")
+					(reference "LED15")
 					(unit 1)
 				)
 			)
@@ -18591,7 +18591,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c2b86181-bfd3-460e-8d99-f3ae706d780e")
-		(property "Reference" "LED16"
+		(property "Reference" "LED7"
 			(at 119.126 89.154 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18804,7 +18804,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED16")
+					(reference "LED7")
 					(unit 1)
 				)
 			)
@@ -18822,7 +18822,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb579804-3184-4631-996a-2f70ea58f98f")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR048"
 			(at 85.09 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -18882,7 +18882,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "#PWR044")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -18899,7 +18899,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cde10346-184a-4392-8f3a-9f1b2184f7ef")
-		(property "Reference" "LED47"
+		(property "Reference" "LED29"
 			(at 190.246 139.954 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19112,7 +19112,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED47")
+					(reference "LED29")
 					(unit 1)
 				)
 			)
@@ -19207,7 +19207,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d9ea7697-cfbd-4934-992b-b4a63e3ccaae")
-		(property "Reference" "LED27"
+		(property "Reference" "LED58"
 			(at 314.706 89.154 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19420,7 +19420,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED27")
+					(reference "LED58")
 					(unit 1)
 				)
 			)
@@ -19437,7 +19437,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "daa73d70-a4c6-460b-978d-b8bd497b3850")
-		(property "Reference" "LED50"
+		(property "Reference" "LED44"
 			(at 243.586 139.954 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19650,7 +19650,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED50")
+					(reference "LED44")
 					(unit 1)
 				)
 			)
@@ -19667,7 +19667,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dae22180-1201-47ae-ba89-b75f1380f980")
-		(property "Reference" "LED58"
+		(property "Reference" "LED25"
 			(at 172.466 165.354 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19880,7 +19880,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED58")
+					(reference "LED25")
 					(unit 1)
 				)
 			)
@@ -19897,7 +19897,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dd30dabe-c334-48aa-8b7b-2014f33b52f5")
-		(property "Reference" "LED37"
+		(property "Reference" "LED43"
 			(at 243.586 114.554 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20110,7 +20110,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED37")
+					(reference "LED43")
 					(unit 1)
 				)
 			)
@@ -20127,7 +20127,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e5317516-cddb-41d4-9244-5ff1b06e54d5")
-		(property "Reference" "LED19"
+		(property "Reference" "LED22"
 			(at 172.466 89.154 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20340,7 +20340,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED19")
+					(reference "LED22")
 					(unit 1)
 				)
 			)
@@ -20357,7 +20357,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e91450cd-7e68-45f7-ac0a-9156182cf19f")
-		(property "Reference" "LED54"
+		(property "Reference" "LED5"
 			(at 101.346 165.354 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20570,7 +20570,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED54")
+					(reference "LED5")
 					(unit 1)
 				)
 			)
@@ -20587,7 +20587,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f8755ccc-3a44-4a93-ba13-9d911dc9b87b")
-		(property "Reference" "LED34"
+		(property "Reference" "LED28"
 			(at 190.246 114.554 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20800,7 +20800,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED34")
+					(reference "LED28")
 					(unit 1)
 				)
 			)
@@ -20817,7 +20817,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fa290013-de0a-4dfe-a4aa-8b38f7101217")
-		(property "Reference" "LED21"
+		(property "Reference" "LED32"
 			(at 208.026 89.154 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21030,7 +21030,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "LED21")
+					(reference "LED32")
 					(unit 1)
 				)
 			)
@@ -21047,7 +21047,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fdbdcdb9-730e-47b9-93d7-4ad8d4854ebb")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR053"
 			(at 87.63 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -21107,7 +21107,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "#PWR057")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -21125,7 +21125,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe63fcea-1c1b-46b5-bcb4-11b1cc9edbb8")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR052"
 			(at 85.09 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -21185,7 +21185,7 @@
 		(instances
 			(project "60WKeyboard"
 				(path "/a348110a-0b31-458b-8c85-d9f8cb2d19b6/5a1ec77c-d8b2-42c4-a20d-c6f1c8c10efc"
-					(reference "#PWR051")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
