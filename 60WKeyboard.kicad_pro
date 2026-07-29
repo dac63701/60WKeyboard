@@ -81,7 +81,12 @@
           "width": 0.27
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "unconnected_items|161020000|164062500|F.Cu|4|ef99b96e-da2c-4fc6-a32d-1d83041270e2|e875b830-56d4-4e09-92dc-c3381cae6a11",
+          "Meant to be this way"
+        ]
+      ],
       "meta": {
         "version": 2
       },
