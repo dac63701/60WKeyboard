@@ -1,6 +1,26 @@
 {
   "board": {
-    "3dviewports": [],
+    "3dviewports": [
+      {
+        "name": "Back",
+        "ww": 1.0,
+        "wx": 9.114869117736816,
+        "wy": 6.104833126068115,
+        "wz": -10.077945709228516,
+        "xw": 0.0,
+        "xx": -1.0,
+        "xy": 0.0,
+        "xz": -1.7555552403791808e-05,
+        "yw": 0.0,
+        "yx": 0.0,
+        "yy": 1.0,
+        "yz": 0.0,
+        "zw": 0.0,
+        "zx": 1.7555552403791808e-05,
+        "zy": 0.0,
+        "zz": -1.0
+      }
+    ],
     "design_settings": {
       "defaults": {
         "apply_defaults_to_fp_barcodes": false,
@@ -40,8 +60,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.6,
-          "width": 0.8
+          "height": 1.8,
+          "width": 1.2
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -83,8 +103,8 @@
       ],
       "drc_exclusions": [
         [
-          "unconnected_items|161020000|164062500|F.Cu|4|ef99b96e-da2c-4fc6-a32d-1d83041270e2|e875b830-56d4-4e09-92dc-c3381cae6a11",
-          "Meant to be this way"
+          "unconnected_items|160070000|165937500|F.Cu|4|e875b830-56d4-4e09-92dc-c3381cae6a11|ef99b96e-da2c-4fc6-a32d-1d83041270e2",
+          "this is good"
         ]
       ],
       "meta": {
@@ -610,7 +630,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "review-files/",
+      "plot": "review-files/layers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "60WKeyboard.step",
@@ -807,7 +827,7 @@
         "uuid": "a348110a-0b31-458b-8c85-d9f8cb2d19b6"
       }
     ],
-    "used_designators": "PMIC1,SHPHLD1,Q1,#PWR1-83,D1-62,Y1-2,3V1-2,GND1,LED1-61,VBUS1,L1-3,H1-6,R1-5,S1-61,5V1,U1-2,SW1,FB1,C1-31,C35,J1-5,VBAT1,VDD1-2,TP1",
+    "used_designators": "TP1,VDD1-2,VBAT1,J1-6,C1-32,C35,FB1,SW1,U1-2,5V1,S1-61,R1-6,H1-6,L1-3,VBUS1,LED1-61,GND1,3V1-2,Y1-2,D1-62,#PWR1-83,Q1,SHPHLD1,PMIC1",
     "variants": []
   },
   "sheets": [
