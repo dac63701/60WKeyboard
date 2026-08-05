@@ -98,13 +98,13 @@
         {
           "gap": 0.2,
           "via_gap": 0.0,
-          "width": 0.27
+          "width": 0.29
         }
       ],
       "drc_exclusions": [
         [
           "unconnected_items|160070000|165937500|F.Cu|4|e875b830-56d4-4e09-92dc-c3381cae6a11|ef99b96e-da2c-4fc6-a32d-1d83041270e2",
-          "this is good"
+          "meant to be this way"
         ]
       ],
       "meta": {
@@ -585,7 +585,7 @@
         "clearance": 0.1,
         "diff_pair_gap": 0.2,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.27,
+        "diff_pair_width": 0.29,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
@@ -827,7 +827,7 @@
         "uuid": "a348110a-0b31-458b-8c85-d9f8cb2d19b6"
       }
     ],
-    "used_designators": "TP1,VDD1-2,VBAT1,J1-6,C1-32,C35,FB1,SW1,U1-2,5V1,S1-61,R1-6,H1-6,L1-3,VBUS1,LED1-61,GND1,3V1-2,Y1-2,D1-62,#PWR1-83,Q1,SHPHLD1,PMIC1",
+    "used_designators": "PMIC1,SHPHLD1,Q1,#PWR1-184,D1-62,Y1-2,3V1-2,GND1,LED1-61,VBUS1,L1-3,H1-6,R1-6,S1-61,5V1,U1-2,SW1,FB1,C1-93,J1-6,VBAT1,VDD1-2,TP1",
     "variants": []
   },
   "sheets": [
