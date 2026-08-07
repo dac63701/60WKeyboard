@@ -103,8 +103,8 @@
       ],
       "drc_exclusions": [
         [
-          "unconnected_items|160070000|165937500|F.Cu|4|e875b830-56d4-4e09-92dc-c3381cae6a11|ef99b96e-da2c-4fc6-a32d-1d83041270e2",
-          "meant to be this way"
+          "unconnected_items|159261039|164730315|F.Cu|4|e4cb85d1-8a73-4302-9a59-38754eeda09d|638aa330-f1bc-0897-0763-538ede963127",
+          ""
         ]
       ],
       "meta": {
